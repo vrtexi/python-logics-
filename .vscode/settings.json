@@ -1,0 +1,4 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "python.REPL.enableREPLSmartSend": false
+}

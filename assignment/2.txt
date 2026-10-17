@@ -1,0 +1,2 @@
+# Q2. Explain the fundamental difference between Decision-Making
+# Constructs and Iteration Constructs in Python with suitable examples.

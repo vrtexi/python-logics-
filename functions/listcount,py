@@ -1,0 +1,6 @@
+cities = ["delhi", "gurgaon", "noida", "pune", "mumbai", "chennai"]
+
+def len_list(list):
+  print(len(list))
+
+len_list(cities)
